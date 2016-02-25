@@ -1,0 +1,6 @@
+# ignore compiled files
+*.[o]
+# ignore emacs extension
+*[#]*[#]
+# ignore auto-save-files
+*~

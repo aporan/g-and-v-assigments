@@ -1,0 +1,34 @@
+From a terminal:
+
+1) sudo apt-get update
+
+-This will update your apt database to the most recent available packages.
+
+2) sudo apt-get install build-essential
+
+- This installs the necessary development tools for building source code.
+
+3) sudo apt-get install freeglut3-dev
+
+- This installs the development libraries and headers for freeglut.
+
+4) cd Assignment 0
+
+- change directory into Assignment0 folder
+
+5) g++ main.cpp -o a0 -lGL -lGLU -lglut -Ivecmath
+
+- compile
+
+6) ./a0
+
+- run `a0`
+
+
+Please ensure your code compiles on VS2010 after development. 
+You can try on the computers in the digital systems lab.
+Treat it as a learning experience to compile C++ across platforms.
+
+For the basic stuff, it's almost copy and paste.
+But if you try some extra credit (e.g. Vertex Buffer Objects),
+there may be more work to be done to ensure it compiles on windows.
