@@ -21,6 +21,11 @@ make
 ./a2 data/[any].obj
 ```
 
+If running fails because of a missing library:
+```bash
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:'path/to/library/'
+```
+
 ## Clean Build
 ```
 make clean
