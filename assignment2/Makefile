@@ -1,5 +1,5 @@
 # Header Files
-INCFLAGS += -I vecmath/include/
+INCFLAGS = -I vecmath/include/
 
 # Library Files
 LINKFLAGS  = -lglut -lGL -lGLU -lfltk -lfltk_gl 
