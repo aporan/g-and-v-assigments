@@ -16,4 +16,4 @@ make clean
 
 Warning: I am not sure that this will assignemnt will work. If it does compile perfectly with this starter code, create a pull request to delete this line. Thank You!
 
-Note: The ./a5soln does not work when input is provided.  
+Note: The ./a5soln does not work.
