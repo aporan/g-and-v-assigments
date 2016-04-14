@@ -6,7 +6,7 @@ make
 
 ## Run
 ```bash
-./a1 -input {scene_file}.txt -size {width} {height} -output {output}.bmp -depth 8 12 {depth}.bmp
+./a4 -input {scene_file}.txt -size {width} {height} -output {output}.bmp -depth 8 12 {depth}.bmp
 ```
 
 ## Run Solution
