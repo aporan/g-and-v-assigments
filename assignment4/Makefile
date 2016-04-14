@@ -1,6 +1,10 @@
 # Header Files
 INCFLAGS = -I vecmath/include/
 
+# Library Files
+LINKFLAGS  = -lglut -lGL -lGLU 
+Linkflags += -L vecmath/lib/ -lvecmath
+
 CFLAGS    = -g -Wall -ansi -DSOLN
 CC        = g++
 
