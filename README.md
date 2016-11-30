@@ -1,7 +1,7 @@
 ## Computer Graphics Assignments
 
 - Each assignment only contains the starter codes.
-- The files are for only Linux OS.
+- The files are only for Linux.
 
 ### Update apt database and install development tools 
 ```bash
